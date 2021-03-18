@@ -2,4 +2,4 @@
 
 the side
 
-www.jua.zellview.net
+http://jua.zellview.net
